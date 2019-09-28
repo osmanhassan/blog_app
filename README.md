@@ -3,16 +3,16 @@
 ## Installation
 
   ### Backend 
-    Steap 1: Install java 8 and maven first.
-    Steap 2: Clone the project and navigate to /blog directory
-    Steap 3: Run the command `mvn spring-boot:run` . Project should be run at port 8080
+    Step 1: Install java 8 and maven first.
+    Step 2: Clone the project and navigate to /blog directory
+    Step 3: Run the command `mvn spring-boot:run` . Project should be run at port 8080
     
     (OR you can run the project by IDE ex: Intellij Idea, Eclipse etc.)
     
   ### Frontend
-    Steap 1: Install node (recommended version 10.15.3)
-    Steap 2: navigate to /blog/ui directory
-    Steap 3: Run the commands `npm install` and `npm start` . Frontend project should be run at port 8081
+    Step 1: Install node (recommended version 10.15.3)
+    Step 2: navigate to /blog/ui directory
+    Step 3: Run the commands `npm install` and `npm start` . Frontend project should be run at port 8081
     
 ## Features
     1. Two types of user. Admin & Blogger.
