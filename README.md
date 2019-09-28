@@ -13,7 +13,7 @@
     Step 1: Install node (recommended version 10.15.3)
     Step 2: navigate to /blog/ui directory
     Step 3: Run the commands `npm install` and `npm start` . Frontend project should be run at port 8080
-            Navigation url = http://localhost:8080/login
+            Navigation url is http://localhost:8080/login
     
 ## Features
     1. Two types of user. Admin & Blogger.
